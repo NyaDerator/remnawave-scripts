@@ -73,6 +73,9 @@ find_remnanode_directory() {
         "/var/lib/remnanode"
         "/var/lib/remna"
         "/home/remnanode"
+        "/remna/remnanode"
+        "/root/remnanode"
+        "remnanode/remnanode"
     )
     
     colorized_echo blue "Searching for RemnaNode directory..."
