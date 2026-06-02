@@ -72,6 +72,7 @@ find_remnanode_directory() {
         "/opt/remna"
         "/var/lib/remnanode"
         "/var/lib/remna"
+        "/home/remnanode"
     )
     
     colorized_echo blue "Searching for RemnaNode directory..."
